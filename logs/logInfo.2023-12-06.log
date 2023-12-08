@@ -1,0 +1,16 @@
+[2023-12-06 12:12:40 INFO ] [main] [com.green.greengram3.Greengram3ApplicationTests] Starting Greengram3ApplicationTests using Java 17.0.8.1 with PID 7304 (started by Administrator in D:\2023_second\java\greengram3)
+[2023-12-06 12:12:40 INFO ] [main] [com.green.greengram3.Greengram3ApplicationTests] No active profile set, falling back to 1 default profile: "default"
+[2023-12-06 12:12:41 INFO ] [main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2023-12-06 12:12:41 INFO ] [main] [com.green.greengram3.Greengram3ApplicationTests] Started Greengram3ApplicationTests in 1.619 seconds (process running for 2.275)
+[2023-12-06 12:58:35 INFO ] [main] [com.green.greengram3.Greengram3ApplicationTests] Starting Greengram3ApplicationTests using Java 17.0.8.1 with PID 9396 (started by Administrator in D:\2023_second\java\greengram3)
+[2023-12-06 12:58:35 INFO ] [main] [com.green.greengram3.Greengram3ApplicationTests] No active profile set, falling back to 1 default profile: "default"
+[2023-12-06 12:58:36 INFO ] [main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2023-12-06 12:58:36 INFO ] [main] [com.green.greengram3.Greengram3ApplicationTests] Started Greengram3ApplicationTests in 1.613 seconds (process running for 2.281)
+[2023-12-06 12:59:04 INFO ] [main] [com.green.greengram3.Greengram3ApplicationTests] Starting Greengram3ApplicationTests using Java 17.0.8.1 with PID 5188 (started by Administrator in D:\2023_second\java\greengram3)
+[2023-12-06 12:59:04 INFO ] [main] [com.green.greengram3.Greengram3ApplicationTests] No active profile set, falling back to 1 default profile: "default"
+[2023-12-06 12:59:05 INFO ] [main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2023-12-06 12:59:06 INFO ] [main] [com.green.greengram3.Greengram3ApplicationTests] Started Greengram3ApplicationTests in 1.561 seconds (process running for 2.19)
+[2023-12-06 13:00:48 INFO ] [main] [com.green.greengram3.Greengram3ApplicationTests] Starting Greengram3ApplicationTests using Java 17.0.8.1 with PID 10052 (started by Administrator in D:\2023_second\java\greengram3)
+[2023-12-06 13:00:48 INFO ] [main] [com.green.greengram3.Greengram3ApplicationTests] No active profile set, falling back to 1 default profile: "default"
+[2023-12-06 13:00:49 INFO ] [main] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] Adding welcome page: class path resource [static/index.html]
+[2023-12-06 13:00:50 INFO ] [main] [com.green.greengram3.Greengram3ApplicationTests] Started Greengram3ApplicationTests in 1.738 seconds (process running for 2.424)

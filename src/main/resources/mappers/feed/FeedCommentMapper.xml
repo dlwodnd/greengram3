@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.green.greengram3.feed.mappers.FeedCommentMapper">
+    <select id="selFeedCommentAll">
+        Select b.ifeed_comment as ifeedComment
+        ,b.ifeed
+        ,b.comment
+        ,b.created_at as createdAt
+        ,a.iuser writerIuser
+        ,a.nm writerNm
+        ,a.pic as writerPic
+        From t_user a
+        Join t_feed_comment b
+        on a.iuser = b.iuser
+        and b.ifeed = #{ifeed}
+        order by b.ifeed_comment
+        <if test="rowCount > 0 ">
+            limit #{startIdx} , #{rowCount}
+        </if>
+
+    </select>
+    <insert id="insFeedComment" useGeneratedKeys="true" keyProperty="ifeedComment">
+        Insert Into t_feed_comment
+        Set ifeed = #{ifeed}
+            ,iuser = #{iuser}
+            ,comment = #{comment}
+    </insert>
+    <delete id="delFeedCommnet">
+        Delete
+        From t_feed_comment
+        Where iuser = #{logined_iuser} And ifeed_comment = #{ifeed_comment}
+    </delete>
+
+</mapper>

@@ -1,0 +1,505 @@
+[2023-12-08 09:47:33 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 3892 (D:\2023_second\java\greengram3\target\classes started by Administrator in D:\2023_second\java\greengram3)[0;39m
+[2023-12-08 09:47:33 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-08 09:47:33 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mDevtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable[0;39m
+[2023-12-08 09:47:33 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mFor additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'[0;39m
+[2023-12-08 09:47:33 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 4016 (D:\2023_second\java\greengram3\target\classes started by Administrator in D:\2023_second\java\greengram3)[0;39m
+[2023-12-08 09:47:33 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-08 09:47:33 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mDevtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable[0;39m
+[2023-12-08 09:47:33 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mFor additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'[0;39m
+[2023-12-08 09:47:34 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-08 09:47:34 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-08 09:47:34 [32mINFO [0;39m] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 09:47:34 [32mINFO [0;39m] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 09:47:34 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-08 09:47:34 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-08 09:47:34 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-08 09:47:34 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-08 09:47:34 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-08 09:47:34 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 857 ms[0;39m
+[2023-12-08 09:47:34 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-08 09:47:34 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 1051 ms[0;39m
+[2023-12-08 09:47:34 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2023-12-08 09:47:34 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2023-12-08 09:47:35 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [36mLiveReload server is running on port 35729[0;39m
+[2023-12-08 09:47:35 [33mWARN [0;39m] [restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [36mUnable to start LiveReload server[0;39m
+[2023-12-08 09:47:35 [32mINFO [0;39m] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 09:47:35 [32mINFO [0;39m] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 09:47:35 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2023-12-08 09:47:35 [33mWARN [0;39m] [restartedMain] [org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext] [36mException encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'[0;39m
+[2023-12-08 09:47:35 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mStarted Greengram3Application in 1.95 seconds (process running for 2.421)[0;39m
+[2023-12-08 09:47:35 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLogger] [36m
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.[0;39m
+[2023-12-08 09:47:35 [31mERROR[0;39m] [restartedMain] [org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter] [36m
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+[0;39m
+[2023-12-08 09:47:39 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 6988 (D:\2023_second\java\greengram3\target\classes started by Administrator in D:\2023_second\java\greengram3)[0;39m
+[2023-12-08 09:47:39 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-08 09:47:39 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mDevtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable[0;39m
+[2023-12-08 09:47:39 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mFor additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'[0;39m
+[2023-12-08 09:47:40 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-08 09:47:40 [32mINFO [0;39m] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 09:47:40 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-08 09:47:40 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-08 09:47:40 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-08 09:47:40 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 723 ms[0;39m
+[2023-12-08 09:47:40 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2023-12-08 09:47:40 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [36mLiveReload server is running on port 35729[0;39m
+[2023-12-08 09:47:40 [32mINFO [0;39m] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 09:47:40 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2023-12-08 09:47:40 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mStarted Greengram3Application in 1.574 seconds (process running for 1.958)[0;39m
+[2023-12-08 09:47:41 [32mINFO [0;39m] [http-nio-8080-exec-1] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring DispatcherServlet 'dispatcherServlet'[0;39m
+[2023-12-08 09:47:41 [32mINFO [0;39m] [http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [36mInitializing Servlet 'dispatcherServlet'[0;39m
+[2023-12-08 09:47:41 [32mINFO [0;39m] [http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [36mCompleted initialization in 1 ms[0;39m
+[2023-12-08 09:47:42 [32mINFO [0;39m] [http-nio-8080-exec-5] [org.springdoc.api.AbstractOpenApiResource] [36mInit duration for springdoc-openapi is: 201 ms[0;39m
+[2023-12-08 09:47:46 [32mINFO [0;39m] [http-nio-8080-exec-7] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Starting...[0;39m
+[2023-12-08 09:47:46 [32mINFO [0;39m] [http-nio-8080-exec-7] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-1 - Added connection org.mariadb.jdbc.Connection@35aab3e0[0;39m
+[2023-12-08 09:47:46 [32mINFO [0;39m] [http-nio-8080-exec-7] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Start completed.[0;39m
+[2023-12-08 10:40:14 [32mINFO [0;39m] [File Watcher] [org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] [36mRestarting due to 5 class path changes (1 addition, 0 deletions, 4 modifications)[0;39m
+[2023-12-08 10:40:14 [32mINFO [0;39m] [Thread-5] [org.apache.coyote.http11.Http11NioProtocol] [36mStopping ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 10:40:14 [32mINFO [0;39m] [Thread-5] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown initiated...[0;39m
+[2023-12-08 10:40:14 [32mINFO [0;39m] [Thread-5] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown completed.[0;39m
+[2023-12-08 10:40:14 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 6988 (D:\2023_second\java\greengram3\target\classes started by Administrator in D:\2023_second\java\greengram3)[0;39m
+[2023-12-08 10:40:14 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-08 10:40:14 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-08 10:40:14 [32mINFO [0;39m] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 10:40:14 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-08 10:40:14 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-08 10:40:14 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-08 10:40:14 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 182 ms[0;39m
+[2023-12-08 10:40:15 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2023-12-08 10:40:15 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [36mLiveReload server is running on port 35729[0;39m
+[2023-12-08 10:40:15 [32mINFO [0;39m] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 10:40:15 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2023-12-08 10:40:15 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mStarted Greengram3Application in 0.348 seconds (process running for 3156.111)[0;39m
+[2023-12-08 10:40:15 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener] [36mCondition evaluation unchanged[0;39m
+[2023-12-08 11:02:20 [32mINFO [0;39m] [File Watcher] [org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] [36mRestarting due to 1 class path change (0 additions, 0 deletions, 1 modification)[0;39m
+[2023-12-08 11:02:20 [32mINFO [0;39m] [Thread-7] [org.apache.coyote.http11.Http11NioProtocol] [36mStopping ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 11:02:20 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 6988 (D:\2023_second\java\greengram3\target\classes started by Administrator in D:\2023_second\java\greengram3)[0;39m
+[2023-12-08 11:02:20 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-08 11:02:20 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-08 11:02:20 [32mINFO [0;39m] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 11:02:20 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-08 11:02:20 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-08 11:02:20 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-08 11:02:20 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 174 ms[0;39m
+[2023-12-08 11:02:20 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2023-12-08 11:02:20 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [36mLiveReload server is running on port 35729[0;39m
+[2023-12-08 11:02:20 [32mINFO [0;39m] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 11:02:20 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2023-12-08 11:02:20 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mStarted Greengram3Application in 0.329 seconds (process running for 4481.602)[0;39m
+[2023-12-08 11:02:20 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener] [36mCondition evaluation unchanged[0;39m
+[2023-12-08 11:14:49 [32mINFO [0;39m] [http-nio-8080-exec-1] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring DispatcherServlet 'dispatcherServlet'[0;39m
+[2023-12-08 11:14:49 [32mINFO [0;39m] [http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [36mInitializing Servlet 'dispatcherServlet'[0;39m
+[2023-12-08 11:14:49 [32mINFO [0;39m] [http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [36mCompleted initialization in 0 ms[0;39m
+[2023-12-08 11:14:49 [32mINFO [0;39m] [http-nio-8080-exec-7] [com.green.greengram3.feed.FeedController] [36mdto FeedSelDto(page=0, loginedIuser=1, targetIuser=0, isFavList=0, startIdx=0, rowCount=20)[0;39m
+[2023-12-08 11:14:49 [32mINFO [0;39m] [http-nio-8080-exec-7] [com.green.greengram3.feed.FeedService] [36mserviceDto : FeedSelDto(page=0, loginedIuser=1, targetIuser=0, isFavList=0, startIdx=0, rowCount=20)[0;39m
+[2023-12-08 11:14:49 [32mINFO [0;39m] [http-nio-8080-exec-7] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-2 - Starting...[0;39m
+[2023-12-08 11:14:49 [32mINFO [0;39m] [http-nio-8080-exec-7] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-2 - Added connection org.mariadb.jdbc.Connection@12153108[0;39m
+[2023-12-08 11:14:49 [32mINFO [0;39m] [http-nio-8080-exec-7] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-2 - Start completed.[0;39m
+[2023-12-08 11:33:15 [32mINFO [0;39m] [http-nio-8080-exec-7] [org.springdoc.api.AbstractOpenApiResource] [36mInit duration for springdoc-openapi is: 52 ms[0;39m
+[2023-12-08 11:33:25 [32mINFO [0;39m] [http-nio-8080-exec-1] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=0) [0;39m
+[2023-12-08 11:34:28 [32mINFO [0;39m] [SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-2 - Shutdown initiated...[0;39m
+[2023-12-08 11:34:28 [32mINFO [0;39m] [SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-2 - Shutdown completed.[0;39m
+[2023-12-08 11:34:30 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 3688 (D:\2023_second\java\greengram3\target\classes started by Administrator in D:\2023_second\java\greengram3)[0;39m
+[2023-12-08 11:34:30 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-08 11:34:30 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mDevtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable[0;39m
+[2023-12-08 11:34:30 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mFor additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'[0;39m
+[2023-12-08 11:34:30 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-08 11:34:30 [32mINFO [0;39m] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 11:34:30 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-08 11:34:30 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-08 11:34:30 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-08 11:34:30 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 787 ms[0;39m
+[2023-12-08 11:34:31 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2023-12-08 11:34:31 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [36mLiveReload server is running on port 35729[0;39m
+[2023-12-08 11:34:31 [32mINFO [0;39m] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 11:34:31 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2023-12-08 11:34:31 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mStarted Greengram3Application in 1.694 seconds (process running for 2.081)[0;39m
+[2023-12-08 11:34:33 [32mINFO [0;39m] [http-nio-8080-exec-1] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring DispatcherServlet 'dispatcherServlet'[0;39m
+[2023-12-08 11:34:33 [32mINFO [0;39m] [http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [36mInitializing Servlet 'dispatcherServlet'[0;39m
+[2023-12-08 11:34:33 [32mINFO [0;39m] [http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [36mCompleted initialization in 1 ms[0;39m
+[2023-12-08 11:34:34 [32mINFO [0;39m] [http-nio-8080-exec-4] [org.springdoc.api.AbstractOpenApiResource] [36mInit duration for springdoc-openapi is: 184 ms[0;39m
+[2023-12-08 11:34:50 [32mINFO [0;39m] [http-nio-8080-exec-5] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Starting...[0;39m
+[2023-12-08 11:34:50 [32mINFO [0;39m] [http-nio-8080-exec-5] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-1 - Added connection org.mariadb.jdbc.Connection@16f3e927[0;39m
+[2023-12-08 11:34:50 [32mINFO [0;39m] [http-nio-8080-exec-5] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Start completed.[0;39m
+[2023-12-08 11:39:24 [32mINFO [0;39m] [File Watcher] [org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] [36mRestarting due to 2 class path changes (0 additions, 2 deletions, 0 modifications)[0;39m
+[2023-12-08 11:39:24 [32mINFO [0;39m] [Thread-5] [org.apache.coyote.http11.Http11NioProtocol] [36mStopping ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 11:39:25 [32mINFO [0;39m] [Thread-5] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown initiated...[0;39m
+[2023-12-08 11:39:25 [32mINFO [0;39m] [Thread-5] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown completed.[0;39m
+[2023-12-08 11:39:25 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 3688 (D:\2023_second\java\greengram3\target\classes started by Administrator in D:\2023_second\java\greengram3)[0;39m
+[2023-12-08 11:39:25 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-08 11:39:25 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-08 11:39:25 [32mINFO [0;39m] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 11:39:25 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-08 11:39:25 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-08 11:39:25 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-08 11:39:25 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 236 ms[0;39m
+[2023-12-08 11:39:25 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2023-12-08 11:39:25 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [36mLiveReload server is running on port 35729[0;39m
+[2023-12-08 11:39:25 [32mINFO [0;39m] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 11:39:25 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2023-12-08 11:39:25 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mStarted Greengram3Application in 0.422 seconds (process running for 296.041)[0;39m
+[2023-12-08 11:39:25 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener] [36mCondition evaluation unchanged[0;39m
+[2023-12-08 11:39:26 [32mINFO [0;39m] [File Watcher] [org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] [36mRestarting due to 3 class path changes (3 additions, 0 deletions, 0 modifications)[0;39m
+[2023-12-08 11:39:26 [32mINFO [0;39m] [Thread-7] [org.apache.coyote.http11.Http11NioProtocol] [36mStopping ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 11:39:26 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 3688 (D:\2023_second\java\greengram3\target\classes started by Administrator in D:\2023_second\java\greengram3)[0;39m
+[2023-12-08 11:39:26 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-08 11:39:27 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-08 11:39:27 [32mINFO [0;39m] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 11:39:27 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-08 11:39:27 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-08 11:39:27 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-08 11:39:27 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 157 ms[0;39m
+[2023-12-08 11:39:27 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2023-12-08 11:39:27 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [36mLiveReload server is running on port 35729[0;39m
+[2023-12-08 11:39:27 [32mINFO [0;39m] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 11:39:27 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2023-12-08 11:39:27 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mStarted Greengram3Application in 0.306 seconds (process running for 297.827)[0;39m
+[2023-12-08 11:39:27 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener] [36mCondition evaluation unchanged[0;39m
+[2023-12-08 11:50:05 [32mINFO [0;39m] [File Watcher] [org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] [36mRestarting due to 3 class path changes (0 additions, 0 deletions, 3 modifications)[0;39m
+[2023-12-08 11:50:05 [32mINFO [0;39m] [Thread-11] [org.apache.coyote.http11.Http11NioProtocol] [36mStopping ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 11:50:05 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 3688 (D:\2023_second\java\greengram3\target\classes started by Administrator in D:\2023_second\java\greengram3)[0;39m
+[2023-12-08 11:50:05 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-08 11:50:05 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-08 11:50:05 [32mINFO [0;39m] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 11:50:05 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-08 11:50:05 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-08 11:50:05 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-08 11:50:05 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 151 ms[0;39m
+[2023-12-08 11:50:06 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2023-12-08 11:50:06 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [36mLiveReload server is running on port 35729[0;39m
+[2023-12-08 11:50:06 [32mINFO [0;39m] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 11:50:06 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2023-12-08 11:50:06 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mStarted Greengram3Application in 0.289 seconds (process running for 936.673)[0;39m
+[2023-12-08 11:50:06 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener] [36mCondition evaluation unchanged[0;39m
+[2023-12-08 11:51:34 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 2320 (D:\2023_second\java\greengram3\target\classes started by Administrator in D:\2023_second\java\greengram3)[0;39m
+[2023-12-08 11:51:34 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-08 11:51:34 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mDevtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable[0;39m
+[2023-12-08 11:51:34 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mFor additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'[0;39m
+[2023-12-08 11:51:35 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-08 11:51:35 [32mINFO [0;39m] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 11:51:35 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-08 11:51:35 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-08 11:51:35 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-08 11:51:35 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 772 ms[0;39m
+[2023-12-08 11:51:35 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2023-12-08 11:51:36 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [36mLiveReload server is running on port 35729[0;39m
+[2023-12-08 11:51:36 [32mINFO [0;39m] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 11:51:36 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2023-12-08 11:51:36 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mStarted Greengram3Application in 1.603 seconds (process running for 1.957)[0;39m
+[2023-12-08 11:52:00 [32mINFO [0;39m] [File Watcher] [org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] [36mRestarting due to 1 class path change (0 additions, 0 deletions, 1 modification)[0;39m
+[2023-12-08 11:52:00 [32mINFO [0;39m] [Thread-5] [org.apache.coyote.http11.Http11NioProtocol] [36mStopping ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 11:52:00 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 2320 (D:\2023_second\java\greengram3\target\classes started by Administrator in D:\2023_second\java\greengram3)[0;39m
+[2023-12-08 11:52:00 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-08 11:52:00 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-08 11:52:00 [32mINFO [0;39m] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 11:52:00 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-08 11:52:00 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-08 11:52:00 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-08 11:52:00 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 206 ms[0;39m
+[2023-12-08 11:52:00 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2023-12-08 11:52:00 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [36mLiveReload server is running on port 35729[0;39m
+[2023-12-08 11:52:00 [32mINFO [0;39m] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 11:52:00 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2023-12-08 11:52:00 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mStarted Greengram3Application in 0.369 seconds (process running for 26.72)[0;39m
+[2023-12-08 11:52:00 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener] [36mCondition evaluation unchanged[0;39m
+[2023-12-08 11:52:01 [32mINFO [0;39m] [http-nio-8080-exec-1] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring DispatcherServlet 'dispatcherServlet'[0;39m
+[2023-12-08 11:52:01 [32mINFO [0;39m] [http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [36mInitializing Servlet 'dispatcherServlet'[0;39m
+[2023-12-08 11:52:01 [32mINFO [0;39m] [http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [36mCompleted initialization in 3 ms[0;39m
+[2023-12-08 11:52:01 [32mINFO [0;39m] [http-nio-8080-exec-6] [org.springdoc.api.AbstractOpenApiResource] [36mInit duration for springdoc-openapi is: 177 ms[0;39m
+[2023-12-08 11:52:17 [32mINFO [0;39m] [http-nio-8080-exec-9] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Starting...[0;39m
+[2023-12-08 11:52:17 [32mINFO [0;39m] [http-nio-8080-exec-9] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-1 - Added connection org.mariadb.jdbc.Connection@337d8793[0;39m
+[2023-12-08 11:52:17 [32mINFO [0;39m] [http-nio-8080-exec-9] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Start completed.[0;39m
+[2023-12-08 12:18:15 [32mINFO [0;39m] [File Watcher] [org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] [36mRestarting due to 1 class path change (0 additions, 0 deletions, 1 modification)[0;39m
+[2023-12-08 12:18:15 [32mINFO [0;39m] [Thread-7] [org.apache.coyote.http11.Http11NioProtocol] [36mStopping ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 12:18:15 [32mINFO [0;39m] [Thread-7] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown initiated...[0;39m
+[2023-12-08 12:18:15 [32mINFO [0;39m] [Thread-7] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown completed.[0;39m
+[2023-12-08 12:18:15 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 2320 (D:\2023_second\java\greengram3\target\classes started by Administrator in D:\2023_second\java\greengram3)[0;39m
+[2023-12-08 12:18:15 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-08 12:18:15 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-08 12:18:15 [32mINFO [0;39m] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 12:18:15 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-08 12:18:15 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-08 12:18:15 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-08 12:18:15 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 171 ms[0;39m
+[2023-12-08 12:18:15 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2023-12-08 12:18:15 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [36mLiveReload server is running on port 35729[0;39m
+[2023-12-08 12:18:15 [32mINFO [0;39m] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 12:18:15 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2023-12-08 12:18:15 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mStarted Greengram3Application in 0.327 seconds (process running for 1601.533)[0;39m
+[2023-12-08 12:18:15 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener] [36mCondition evaluation unchanged[0;39m
+[2023-12-08 12:18:55 [32mINFO [0;39m] [File Watcher] [org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] [36mRestarting due to 1 class path change (0 additions, 0 deletions, 1 modification)[0;39m
+[2023-12-08 12:18:55 [32mINFO [0;39m] [Thread-11] [org.apache.coyote.http11.Http11NioProtocol] [36mStopping ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 12:18:55 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 2320 (D:\2023_second\java\greengram3\target\classes started by Administrator in D:\2023_second\java\greengram3)[0;39m
+[2023-12-08 12:18:55 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-08 12:18:55 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-08 12:18:55 [32mINFO [0;39m] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 12:18:55 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-08 12:18:55 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-08 12:18:55 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-08 12:18:55 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 151 ms[0;39m
+[2023-12-08 12:18:55 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2023-12-08 12:18:55 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [36mLiveReload server is running on port 35729[0;39m
+[2023-12-08 12:18:55 [32mINFO [0;39m] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 12:18:55 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2023-12-08 12:18:55 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mStarted Greengram3Application in 0.302 seconds (process running for 1641.13)[0;39m
+[2023-12-08 12:18:55 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener] [36mCondition evaluation unchanged[0;39m
+[2023-12-08 12:19:01 [32mINFO [0;39m] [File Watcher] [org.springframework.boot.devtools.autoconfigure.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] [36mRestarting due to 1 class path change (0 additions, 0 deletions, 1 modification)[0;39m
+[2023-12-08 12:19:01 [32mINFO [0;39m] [Thread-15] [org.apache.coyote.http11.Http11NioProtocol] [36mStopping ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 12:19:01 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 2320 (D:\2023_second\java\greengram3\target\classes started by Administrator in D:\2023_second\java\greengram3)[0;39m
+[2023-12-08 12:19:01 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-08 12:19:02 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-08 12:19:02 [32mINFO [0;39m] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 12:19:02 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-08 12:19:02 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-08 12:19:02 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-08 12:19:02 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 156 ms[0;39m
+[2023-12-08 12:19:02 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2023-12-08 12:19:02 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [36mLiveReload server is running on port 35729[0;39m
+[2023-12-08 12:19:02 [32mINFO [0;39m] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 12:19:02 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2023-12-08 12:19:02 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mStarted Greengram3Application in 0.294 seconds (process running for 1648.007)[0;39m
+[2023-12-08 12:19:02 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener] [36mCondition evaluation unchanged[0;39m
+[2023-12-08 12:19:19 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 1240 (D:\2023_second\java\greengram3\target\classes started by Administrator in D:\2023_second\java\greengram3)[0;39m
+[2023-12-08 12:19:19 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-08 12:19:19 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mDevtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable[0;39m
+[2023-12-08 12:19:19 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mFor additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'[0;39m
+[2023-12-08 12:19:19 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-08 12:19:19 [32mINFO [0;39m] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 12:19:19 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-08 12:19:19 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-08 12:19:20 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-08 12:19:20 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 726 ms[0;39m
+[2023-12-08 12:19:20 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2023-12-08 12:19:20 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [36mLiveReload server is running on port 35729[0;39m
+[2023-12-08 12:19:20 [32mINFO [0;39m] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 12:19:20 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2023-12-08 12:19:20 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mStarted Greengram3Application in 1.58 seconds (process running for 1.942)[0;39m
+[2023-12-08 12:19:22 [32mINFO [0;39m] [http-nio-8080-exec-1] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring DispatcherServlet 'dispatcherServlet'[0;39m
+[2023-12-08 12:19:22 [32mINFO [0;39m] [http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [36mInitializing Servlet 'dispatcherServlet'[0;39m
+[2023-12-08 12:19:22 [32mINFO [0;39m] [http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [36mCompleted initialization in 1 ms[0;39m
+[2023-12-08 12:19:22 [32mINFO [0;39m] [http-nio-8080-exec-6] [org.springdoc.api.AbstractOpenApiResource] [36mInit duration for springdoc-openapi is: 191 ms[0;39m
+[2023-12-08 12:19:31 [32mINFO [0;39m] [http-nio-8080-exec-8] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Starting...[0;39m
+[2023-12-08 12:19:31 [32mINFO [0;39m] [http-nio-8080-exec-8] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-1 - Added connection org.mariadb.jdbc.Connection@7d619921[0;39m
+[2023-12-08 12:19:31 [32mINFO [0;39m] [http-nio-8080-exec-8] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Start completed.[0;39m
+[2023-12-08 12:19:31 [33mWARN [0;39m] [http-nio-8080-exec-8] [org.mariadb.jdbc.message.server.ErrorPacket] [36mError: 1364-HY000: Field 'iuser' doesn't have a default value[0;39m
+[2023-12-08 12:19:31 [31mERROR[0;39m] [http-nio-8080-exec-8] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet]] [36mServlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed: org.springframework.dao.DataIntegrityViolationException: 
+### Error updating database.  Cause: java.sql.SQLException: (conn=54) Field 'iuser' doesn't have a default value
+### The error may exist in file [D:\2023_second\java\greengram3\target\classes\mappers\dm\DmMapper.xml]
+### The error may involve defaultParameterMap
+### The error occurred while setting parameters
+### SQL: Insert Into t_dm_msg         set idm = 1             ,seq = 3             ,msg = '123456'
+### Cause: java.sql.SQLException: (conn=54) Field 'iuser' doesn't have a default value
+; (conn=54) Field 'iuser' doesn't have a default value] with root cause[0;39m
+java.sql.SQLException: (conn=54) Field 'iuser' doesn't have a default value
+	at org.mariadb.jdbc.export.ExceptionFactory.createException(ExceptionFactory.java:299)
+	at org.mariadb.jdbc.export.ExceptionFactory.create(ExceptionFactory.java:370)
+	at org.mariadb.jdbc.message.ClientMessage.readPacket(ClientMessage.java:134)
+	at org.mariadb.jdbc.client.impl.StandardClient.readPacket(StandardClient.java:883)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResults(StandardClient.java:822)
+	at org.mariadb.jdbc.client.impl.StandardClient.readResponse(StandardClient.java:741)
+	at org.mariadb.jdbc.client.impl.StandardClient.execute(StandardClient.java:665)
+	at org.mariadb.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:92)
+	at org.mariadb.jdbc.ClientPreparedStatement.execute(ClientPreparedStatement.java:271)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.execute(ProxyPreparedStatement.java:44)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.execute(HikariProxyPreparedStatement.java)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.update(PreparedStatementHandler.java:48)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.update(RoutingStatementHandler.java:75)
+	at org.apache.ibatis.executor.SimpleExecutor.doUpdate(SimpleExecutor.java:50)
+	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:117)
+	at org.apache.ibatis.executor.CachingExecutor.update(CachingExecutor.java:76)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:197)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.insert(DefaultSqlSession.java:184)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:425)
+	at jdk.proxy2/jdk.proxy2.$Proxy76.insert(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.insert(SqlSessionTemplate.java:272)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:62)
+	at org.apache.ibatis.binding.MapperProxy$PlainMethodInvoker.invoke(MapperProxy.java:141)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:86)
+	at jdk.proxy3/jdk.proxy3.$Proxy77.insDmMsg(Unknown Source)
+	at com.green.greengram3.dm.DmService.postDmMsg(DmService.java:29)
+	at com.green.greengram3.dm.DmController.postDmMsg(DmController.java:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:254)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:182)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:917)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:829)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:914)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:590)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)
+	at jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:340)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[2023-12-08 12:37:54 [32mINFO [0;39m] [SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown initiated...[0;39m
+[2023-12-08 12:37:54 [32mINFO [0;39m] [SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown completed.[0;39m
+[2023-12-08 12:37:55 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 5652 (D:\2023_second\java\greengram3\target\classes started by Administrator in D:\2023_second\java\greengram3)[0;39m
+[2023-12-08 12:37:55 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-08 12:37:55 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mDevtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable[0;39m
+[2023-12-08 12:37:55 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mFor additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'[0;39m
+[2023-12-08 12:37:56 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-08 12:37:56 [32mINFO [0;39m] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 12:37:56 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-08 12:37:56 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-08 12:37:56 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-08 12:37:56 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 709 ms[0;39m
+[2023-12-08 12:37:56 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2023-12-08 12:37:56 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [36mLiveReload server is running on port 35729[0;39m
+[2023-12-08 12:37:56 [32mINFO [0;39m] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 12:37:56 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2023-12-08 12:37:56 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mStarted Greengram3Application in 1.56 seconds (process running for 1.949)[0;39m
+[2023-12-08 13:06:48 [32mINFO [0;39m] [http-nio-8080-exec-1] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring DispatcherServlet 'dispatcherServlet'[0;39m
+[2023-12-08 13:06:48 [32mINFO [0;39m] [http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [36mInitializing Servlet 'dispatcherServlet'[0;39m
+[2023-12-08 13:06:48 [32mINFO [0;39m] [http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [36mCompleted initialization in 1 ms[0;39m
+[2023-12-08 13:06:49 [32mINFO [0;39m] [http-nio-8080-exec-6] [com.green.greengram3.feed.FeedController] [36mdto FeedSelDto(page=0, loginedIuser=1, targetIuser=0, isFavList=0, startIdx=0, rowCount=20)[0;39m
+[2023-12-08 13:06:49 [32mINFO [0;39m] [http-nio-8080-exec-6] [com.green.greengram3.feed.FeedService] [36mserviceDto : FeedSelDto(page=0, loginedIuser=1, targetIuser=0, isFavList=0, startIdx=0, rowCount=20)[0;39m
+[2023-12-08 13:06:49 [32mINFO [0;39m] [http-nio-8080-exec-6] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Starting...[0;39m
+[2023-12-08 13:06:49 [32mINFO [0;39m] [http-nio-8080-exec-6] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-1 - Added connection org.mariadb.jdbc.Connection@2810c355[0;39m
+[2023-12-08 13:06:49 [32mINFO [0;39m] [http-nio-8080-exec-6] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Start completed.[0;39m
+[2023-12-08 13:06:52 [32mINFO [0;39m] [http-nio-8080-exec-5] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=0) [0;39m
+[2023-12-08 13:06:52 [32mINFO [0;39m] [http-nio-8080-exec-8] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=20) [0;39m
+[2023-12-08 13:06:55 [32mINFO [0;39m] [http-nio-8080-exec-6] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=0) [0;39m
+[2023-12-08 13:06:55 [32mINFO [0;39m] [http-nio-8080-exec-4] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=20) [0;39m
+[2023-12-08 13:06:56 [32mINFO [0;39m] [http-nio-8080-exec-10] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=0) [0;39m
+[2023-12-08 13:06:56 [32mINFO [0;39m] [http-nio-8080-exec-1] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=20) [0;39m
+[2023-12-08 13:06:57 [32mINFO [0;39m] [http-nio-8080-exec-2] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=0) [0;39m
+[2023-12-08 13:06:57 [32mINFO [0;39m] [http-nio-8080-exec-7] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=20) [0;39m
+[2023-12-08 13:06:57 [32mINFO [0;39m] [http-nio-8080-exec-9] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=2, page=0, rowCount=20, startIdx=0) [0;39m
+[2023-12-08 13:06:58 [32mINFO [0;39m] [http-nio-8080-exec-5] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=0) [0;39m
+[2023-12-08 13:06:58 [32mINFO [0;39m] [http-nio-8080-exec-8] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=20) [0;39m
+[2023-12-08 13:06:58 [32mINFO [0;39m] [http-nio-8080-exec-3] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=0) [0;39m
+[2023-12-08 13:06:58 [32mINFO [0;39m] [http-nio-8080-exec-6] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=20) [0;39m
+[2023-12-08 13:06:59 [32mINFO [0;39m] [http-nio-8080-exec-4] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=0) [0;39m
+[2023-12-08 13:06:59 [32mINFO [0;39m] [http-nio-8080-exec-10] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=20) [0;39m
+[2023-12-08 13:07:00 [32mINFO [0;39m] [http-nio-8080-exec-1] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=0) [0;39m
+[2023-12-08 13:07:00 [32mINFO [0;39m] [http-nio-8080-exec-2] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=20) [0;39m
+[2023-12-08 13:07:00 [32mINFO [0;39m] [http-nio-8080-exec-7] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=0) [0;39m
+[2023-12-08 13:07:00 [32mINFO [0;39m] [http-nio-8080-exec-9] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=20) [0;39m
+[2023-12-08 13:07:01 [32mINFO [0;39m] [http-nio-8080-exec-5] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=0) [0;39m
+[2023-12-08 13:07:01 [32mINFO [0;39m] [http-nio-8080-exec-8] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=20) [0;39m
+[2023-12-08 13:07:01 [32mINFO [0;39m] [http-nio-8080-exec-3] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=0) [0;39m
+[2023-12-08 13:07:01 [32mINFO [0;39m] [http-nio-8080-exec-6] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=20) [0;39m
+[2023-12-08 13:07:02 [32mINFO [0;39m] [http-nio-8080-exec-4] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=0) [0;39m
+[2023-12-08 13:07:02 [32mINFO [0;39m] [http-nio-8080-exec-10] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=20) [0;39m
+[2023-12-08 13:07:02 [32mINFO [0;39m] [http-nio-8080-exec-1] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=0) [0;39m
+[2023-12-08 13:07:02 [32mINFO [0;39m] [http-nio-8080-exec-2] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=20) [0;39m
+[2023-12-08 13:07:04 [32mINFO [0;39m] [http-nio-8080-exec-7] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=2, page=0, rowCount=20, startIdx=0) [0;39m
+[2023-12-08 13:07:04 [32mINFO [0;39m] [http-nio-8080-exec-9] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=3, page=0, rowCount=20, startIdx=0) [0;39m
+[2023-12-08 13:07:07 [32mINFO [0;39m] [http-nio-8080-exec-8] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=2, page=0, rowCount=20, startIdx=0) [0;39m
+[2023-12-08 13:07:16 [32mINFO [0;39m] [http-nio-8080-exec-10] [com.green.greengram3.feed.FeedController] [36mdto FeedSelDto(page=0, loginedIuser=1, targetIuser=0, isFavList=0, startIdx=0, rowCount=20)[0;39m
+[2023-12-08 13:07:16 [32mINFO [0;39m] [http-nio-8080-exec-10] [com.green.greengram3.feed.FeedService] [36mserviceDto : FeedSelDto(page=0, loginedIuser=1, targetIuser=0, isFavList=0, startIdx=0, rowCount=20)[0;39m
+[2023-12-08 13:07:18 [32mINFO [0;39m] [http-nio-8080-exec-5] [com.green.greengram3.feed.FeedController] [36mdto FeedSelDto(page=0, loginedIuser=1, targetIuser=1, isFavList=0, startIdx=0, rowCount=20)[0;39m
+[2023-12-08 13:07:18 [32mINFO [0;39m] [http-nio-8080-exec-5] [com.green.greengram3.feed.FeedService] [36mserviceDto : FeedSelDto(page=0, loginedIuser=1, targetIuser=1, isFavList=0, startIdx=0, rowCount=20)[0;39m
+[2023-12-08 13:07:18 [32mINFO [0;39m] [http-nio-8080-exec-3] [com.green.greengram3.feed.FeedController] [36mdto FeedSelDto(page=0, loginedIuser=1, targetIuser=0, isFavList=1, startIdx=0, rowCount=20)[0;39m
+[2023-12-08 13:07:18 [32mINFO [0;39m] [http-nio-8080-exec-3] [com.green.greengram3.feed.FeedService] [36mserviceDto : FeedSelDto(page=0, loginedIuser=1, targetIuser=0, isFavList=1, startIdx=0, rowCount=20)[0;39m
+[2023-12-08 13:07:18 [32mINFO [0;39m] [http-nio-8080-exec-8] [com.green.greengram3.user.UserController] [36minfoDto : UserInfoDto(targetIuser=1, loginedIuser=1)[0;39m
+[2023-12-08 13:07:24 [32mINFO [0;39m] [http-nio-8080-exec-3] [com.green.greengram3.feed.FeedController] [36mdto FeedSelDto(page=0, loginedIuser=1, targetIuser=0, isFavList=0, startIdx=0, rowCount=20)[0;39m
+[2023-12-08 13:07:24 [32mINFO [0;39m] [http-nio-8080-exec-3] [com.green.greengram3.feed.FeedService] [36mserviceDto : FeedSelDto(page=0, loginedIuser=1, targetIuser=0, isFavList=0, startIdx=0, rowCount=20)[0;39m
+[2023-12-08 13:07:26 [32mINFO [0;39m] [http-nio-8080-exec-7] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=0) [0;39m
+[2023-12-08 13:07:26 [32mINFO [0;39m] [http-nio-8080-exec-9] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=20) [0;39m
+[2023-12-08 13:07:35 [32mINFO [0;39m] [http-nio-8080-exec-4] [com.green.greengram3.feed.FeedController] [36mdto FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=20)[0;39m
+[2023-12-08 13:07:35 [32mINFO [0;39m] [http-nio-8080-exec-4] [com.green.greengram3.feed.FeedService] [36mserviceDto : FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=20)[0;39m
+[2023-12-08 13:07:39 [32mINFO [0;39m] [http-nio-8080-exec-9] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=0) [0;39m
+[2023-12-08 13:07:39 [32mINFO [0;39m] [http-nio-8080-exec-8] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=20) [0;39m
+[2023-12-08 13:07:48 [32mINFO [0;39m] [http-nio-8080-exec-5] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=0) [0;39m
+[2023-12-08 13:07:48 [32mINFO [0;39m] [http-nio-8080-exec-10] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=20) [0;39m
+[2023-12-08 13:07:48 [32mINFO [0;39m] [http-nio-8080-exec-2] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=0) [0;39m
+[2023-12-08 13:07:48 [32mINFO [0;39m] [http-nio-8080-exec-7] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=20) [0;39m
+[2023-12-08 13:07:48 [32mINFO [0;39m] [http-nio-8080-exec-9] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=2, page=0, rowCount=20, startIdx=0) [0;39m
+[2023-12-08 13:07:48 [32mINFO [0;39m] [http-nio-8080-exec-8] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=2, page=0, rowCount=20, startIdx=20) [0;39m
+[2023-12-08 13:07:51 [32mINFO [0;39m] [http-nio-8080-exec-1] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=4, page=0, rowCount=20, startIdx=0) [0;39m
+[2023-12-08 13:20:07 [32mINFO [0;39m] [SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown initiated...[0;39m
+[2023-12-08 13:20:07 [32mINFO [0;39m] [SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown completed.[0;39m
+[2023-12-08 14:32:08 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mStarting Greengram3Application using Java 17.0.8.1 with PID 8264 (D:\2023_second\java\greengram3\target\classes started by Administrator in D:\2023_second\java\greengram3)[0;39m
+[2023-12-08 14:32:08 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mNo active profile set, falling back to 1 default profile: "default"[0;39m
+[2023-12-08 14:32:08 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mDevtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable[0;39m
+[2023-12-08 14:32:08 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor] [36mFor additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'[0;39m
+[2023-12-08 14:32:08 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat initialized with port 8080 (http)[0;39m
+[2023-12-08 14:32:08 [32mINFO [0;39m] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mInitializing ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 14:32:08 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.StandardService] [36mStarting service [Tomcat][0;39m
+[2023-12-08 14:32:08 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.StandardEngine] [36mStarting Servlet engine: [Apache Tomcat/10.1.16][0;39m
+[2023-12-08 14:32:08 [32mINFO [0;39m] [restartedMain] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring embedded WebApplicationContext[0;39m
+[2023-12-08 14:32:08 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext] [36mRoot WebApplicationContext: initialization completed in 744 ms[0;39m
+[2023-12-08 14:32:09 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping] [36mAdding welcome page: class path resource [static/index.html][0;39m
+[2023-12-08 14:32:09 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer] [36mLiveReload server is running on port 35729[0;39m
+[2023-12-08 14:32:09 [32mINFO [0;39m] [restartedMain] [org.apache.coyote.http11.Http11NioProtocol] [36mStarting ProtocolHandler ["http-nio-8080"][0;39m
+[2023-12-08 14:32:09 [32mINFO [0;39m] [restartedMain] [org.springframework.boot.web.embedded.tomcat.TomcatWebServer] [36mTomcat started on port 8080 (http) with context path ''[0;39m
+[2023-12-08 14:32:09 [32mINFO [0;39m] [restartedMain] [com.green.greengram3.Greengram3Application] [36mStarted Greengram3Application in 1.63 seconds (process running for 1.991)[0;39m
+[2023-12-08 14:32:09 [32mINFO [0;39m] [http-nio-8080-exec-1] [org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]] [36mInitializing Spring DispatcherServlet 'dispatcherServlet'[0;39m
+[2023-12-08 14:32:09 [32mINFO [0;39m] [http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [36mInitializing Servlet 'dispatcherServlet'[0;39m
+[2023-12-08 14:32:09 [32mINFO [0;39m] [http-nio-8080-exec-1] [org.springframework.web.servlet.DispatcherServlet] [36mCompleted initialization in 1 ms[0;39m
+[2023-12-08 14:32:10 [32mINFO [0;39m] [http-nio-8080-exec-6] [com.green.greengram3.feed.FeedController] [36mdto FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=20)[0;39m
+[2023-12-08 14:32:10 [32mINFO [0;39m] [http-nio-8080-exec-6] [com.green.greengram3.feed.FeedService] [36mserviceDto : FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=20)[0;39m
+[2023-12-08 14:32:10 [32mINFO [0;39m] [http-nio-8080-exec-6] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Starting...[0;39m
+[2023-12-08 14:32:10 [32mINFO [0;39m] [http-nio-8080-exec-6] [com.zaxxer.hikari.pool.HikariPool] [36mHikariPool-1 - Added connection org.mariadb.jdbc.Connection@2810c355[0;39m
+[2023-12-08 14:32:10 [32mINFO [0;39m] [http-nio-8080-exec-6] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Start completed.[0;39m
+[2023-12-08 14:32:18 [32mINFO [0;39m] [http-nio-8080-exec-5] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=0) [0;39m
+[2023-12-08 14:32:18 [32mINFO [0;39m] [http-nio-8080-exec-7] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=20) [0;39m
+[2023-12-08 14:32:42 [32mINFO [0;39m] [http-nio-8080-exec-10] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=1, page=0, rowCount=20, startIdx=0) [0;39m
+[2023-12-08 14:32:42 [32mINFO [0;39m] [http-nio-8080-exec-2] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=4, page=0, rowCount=20, startIdx=0) [0;39m
+[2023-12-08 14:32:42 [32mINFO [0;39m] [http-nio-8080-exec-3] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=4, page=0, rowCount=20, startIdx=20) [0;39m
+[2023-12-08 14:32:43 [32mINFO [0;39m] [http-nio-8080-exec-4] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=4, page=0, rowCount=20, startIdx=0) [0;39m
+[2023-12-08 14:32:43 [32mINFO [0;39m] [http-nio-8080-exec-5] [com.green.greengram3.dm.DmController] [36mdto : DmMsgSelDto(idm=4, page=0, rowCount=20, startIdx=20) [0;39m
+[2023-12-08 16:31:47 [32mINFO [0;39m] [http-nio-8080-exec-5] [com.green.greengram3.feed.FeedController] [36mdto FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=20)[0;39m
+[2023-12-08 16:31:47 [32mINFO [0;39m] [http-nio-8080-exec-5] [com.green.greengram3.feed.FeedService] [36mserviceDto : FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=0, startIdx=0, rowCount=20)[0;39m
+[2023-12-08 16:31:50 [32mINFO [0;39m] [http-nio-8080-exec-3] [com.green.greengram3.feed.FeedController] [36mdto FeedSelDto(page=0, loginedIuser=3, targetIuser=3, isFavList=0, startIdx=0, rowCount=20)[0;39m
+[2023-12-08 16:31:50 [32mINFO [0;39m] [http-nio-8080-exec-3] [com.green.greengram3.feed.FeedService] [36mserviceDto : FeedSelDto(page=0, loginedIuser=3, targetIuser=3, isFavList=0, startIdx=0, rowCount=20)[0;39m
+[2023-12-08 16:31:50 [32mINFO [0;39m] [http-nio-8080-exec-2] [com.green.greengram3.user.UserController] [36minfoDto : UserInfoDto(targetIuser=3, loginedIuser=3)[0;39m
+[2023-12-08 16:31:50 [32mINFO [0;39m] [http-nio-8080-exec-4] [com.green.greengram3.feed.FeedController] [36mdto FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=1, startIdx=0, rowCount=20)[0;39m
+[2023-12-08 16:31:50 [32mINFO [0;39m] [http-nio-8080-exec-4] [com.green.greengram3.feed.FeedService] [36mserviceDto : FeedSelDto(page=0, loginedIuser=3, targetIuser=0, isFavList=1, startIdx=0, rowCount=20)[0;39m
+[2023-12-08 18:07:49 [32mINFO [0;39m] [SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown initiated...[0;39m
+[2023-12-08 18:07:49 [32mINFO [0;39m] [SpringApplicationShutdownHook] [com.zaxxer.hikari.HikariDataSource] [36mHikariPool-1 - Shutdown completed.[0;39m
